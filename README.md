@@ -7,3 +7,10 @@ These models were used to analyze the public opinions by comparing their accurac
 Objective of the project is to extract tweets from twitter and extract sentiments out of them and develop a sentimental analysis system using Bio inspired Algorithms using PSO and GWO and various other algorithms to optimize the parameters of various machine learning classifier. The system will analyse text and data and classify it a positive, negative or neutral based on its sentiment.
 
 Developing a sentimental analysis model using Bio inspired Algorithms, utilizing some machine learning algorithms as the base model and optimizing its parameters using PSO and GWO and other bio inspired algorithms with the help of python as the programming language.
+
+The accuracies obtained are as follows:
+- PSO with LR is 99%
+- PSO is 69%
+- GWO with LR is 98%
+- GWO is 55%
+- Naive Bayes is 88%
